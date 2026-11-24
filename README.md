@@ -10,4 +10,4 @@ Deep knowledge:
 1)In traning process why we scale sqrt(dk) formula use here Var(y)=a^2 Var(x)
 2)How FeedForwarNeuralNetwork help the traning and why we use GELU activation funtion over ReLU
 3)why we use Add&Norm layer(x-mean)/sqrt(std+epsilon)
- 
+ **This model have less accuracy if we run it by 400 or 500 epochs then it will be perform better 
